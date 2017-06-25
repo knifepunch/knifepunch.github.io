@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>knifepunch</h1>
-<p>test</p>
+<script src= "http://player.twitch.tv/js/embed/v1.js"></script>
+<div id="<player div ID>"></div>
+<script type="text/javascript">
+	var options = {
+		width: <width>,
+		height: <height>,
+ 		channel: "<knifepunch>",
+	};
+	var player = new Twitch.Player("<player div ID>", options);
+	player.setVolume(0.5);
+</script>
 </body>
 </html>
