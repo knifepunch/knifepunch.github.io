@@ -63,6 +63,7 @@ img {
           transition:         transform .8s ease-in-out;
 }
 img:hover {
-  -webkit-transform: rotate(360deg);
-          transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+        opacity:0.4;
 }
