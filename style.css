@@ -80,6 +80,7 @@ li{
     margin: auto;
     text-align: center;
     position: relative;
+    left: -10px;
     font-family: 'Montserrat', sans-serif;
 }
 
