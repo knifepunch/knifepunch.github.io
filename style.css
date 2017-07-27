@@ -79,6 +79,7 @@ li{
     color:white;
     margin: auto;
     text-align: center;
+    float: left;
     font-family: 'Montserrat', sans-serif;
 }
 
