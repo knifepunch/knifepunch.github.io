@@ -77,10 +77,11 @@ ul{
 
 li{
     color:white;
+    width: 300px;
     margin: auto;
+    left: auto;
     text-align: center;
     position: relative;
-    left: -10px;
     font-family: 'Montserrat', sans-serif;
 }
 
