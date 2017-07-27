@@ -67,3 +67,10 @@ img:hover {
         transform: rotate(360deg);
         opacity:0.4;
 }
+
+ul{
+    color:white;
+    margin: auto;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
